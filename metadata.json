@@ -1,0 +1,6 @@
+{
+  "name": "TRIKONA — Hardware Engineering & Prototyping",
+  "description": "Informational hardware engineering portal for TRIKONA: CAD 3D modeling, PCB circuit design (schematics/Gerbers only), rapid 3D physical prototyping, and client reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
